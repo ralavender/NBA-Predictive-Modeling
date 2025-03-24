@@ -1,5 +1,6 @@
 # NBA-Predictive-Modeling
 STOR 538 - Sports Analytics
+
 University of North Carolina at Chapel Hill
 
 The primary goal of this project is to use data science methods to design models for 
