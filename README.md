@@ -14,7 +14,7 @@ offering insights into team performances and overall game outcomes.
 
 The variables Spread, Total, and OREB were all evaluated by mean absolute error (MAE). Our group ranked 2nd in the Spread category with MAE 11.08, 1st in Total with MAE 13.99, and 7th in OREB with MAE 4.95 out of 14 groups. Our paper was awarded 38 out of 39 possible points (97 percent).
 
-If you are interested in the methodology, I have uploaded our final paper to this repository. The paper outlines all of the steps taken in the data cleaning, feature engineering, and modeling processes.
+If you are interested in the methodology, I have uploaded that paper to this repository. It outlines all of the steps taken in the data cleaning, feature engineering, and modeling processes.
 
 ## Authors:
 - Keegan Burr, Information Science B.S., Senior 
