@@ -16,6 +16,8 @@ The variables Spread, Total, and OREB were all evaluated by mean absolute error 
 
 If you are interested in the methodology, I have uploaded that paper to this repository. It outlines all of the steps taken in the data cleaning, feature engineering, and modeling processes.
 
+**Note:** Not all code used to produce the final data set, variables, and predictions is included in this repository. This project was a four-person effort, and each team member contributed in different ways. I did not request that each member send me all of their code. In other words, the notebooks / scripts you see in this repository were written by me, Rhett Lavender.
+
 ## Authors:
 - Keegan Burr, Information Science B.S., Senior 
 - Rhett Lavender, Data Science B.S., Junior 
